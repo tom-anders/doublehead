@@ -1,3 +1,5 @@
+[![Tests](https://github.com/tom-anders/doublehead/actions/workflows/test.yml/badge.svg)](https://github.com/tom-anders/doublehead/actions/workflows/test.yml)
+[![Build](https://github.com/tom-anders/doublehead/actions/workflows/build.yml/badge.svg)](https://github.com/tom-anders/doublehead/actions/workflows/build.yml)
 [![style: lint](https://img.shields.io/badge/style-lint-4BC0F5.svg)](https://pub.dev/packages/lint)
 
 # doublehead
